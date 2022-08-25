@@ -1,0 +1,41 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+section {
+	width:90%;
+	margin:auto;
+}
+
+header {
+	width:100%;
+	background:#4B0082;
+	height:300px;
+}
+nav {
+	width:100%;
+	height: 50px;
+	background: #000;
+	color: #fff;
+}
+aside {
+	width: 30%;
+	height: 450px;
+	background:#A020F0;
+	float:left;
+}
+main {
+	background:#fff;
+	color:#000;
+	width: 70%;
+	height:450px;
+	float:right;
+}
+footer {
+	width:100%;
+	height:50px;
+	background:#A020F0;
+	clear:both;
+}
